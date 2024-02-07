@@ -1,17 +1,4 @@
-# Hackathon website Folio template ⚡️
-
-![](https://img.shields.io/github/repo-size/Limbo-Hacks/Hackathon-website-template)
-![](https://img.shields.io/github/commit-activity/m/Limbo-Hacks/Hackathon-website-template)
-
-## A clean, beautiful and mobile responsive portfolio template for your upcoming hackathon!
-
-#### Demo view
-
-![gifs](https://github.com/Limbo-Hacks/Hackathon-website-template/blob/main/Resources/Screen%20Recording%202021-08-14%20at%2010.42.16%20PM.gif)
-
-**For help you can join our discord [click here](https://discord.com/invite/8XJSzmtWPp)**
-
-Just change `src/Module/general.js` to get your hackathon portfolio. Customize and your sponsors, team-member and judges by adding images in `src/Module/Assets` . Feel free to use it as-is or personalize it as much as you want.
+# Qubico-Hackk website ⚡️
 
 ## [Prerequisites]()
 
@@ -60,8 +47,6 @@ Just change `src/Module/general.js` to get your hackathon portfolio. Customize a
 ✔️ Organizers.
 
 ✔️ Footer
-
-To view a live example, [click here](https://limbohacks.tech).
 
 ## [Getting Started]()
 
@@ -124,8 +109,6 @@ git push origin master
 
 # Wolla! It’s committed to your GitHub repository.
 ```
-
-If you are having any difficulties [click here](https://dev.to/dance2die/push-git-cloned-repository-to-your-own-on-github-1ili)
 
 ## [Change and customize every section according to your need]()
 
@@ -329,13 +312,4 @@ Change meta tags content in `/public/index.html`
 - [React Routers]()
 - [Material UI]()
 
-## Project Maintainers
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Abusayid693"><img src="https://github.com/Abusayid693.png?size=460" width="100px;" alt=""/><br /><sub><b>Rehan </b></sub></a></td>
-    <td align="center"><a href="https://github.com/ZohebMOPO"><img src="https://github.com/ZohebMOPO.png?size=460" width="100px;" alt=""/><br /><sub><b>Zoheb</b></sub></a></td>
-    <td align="center"><a href="https://github.com/adityamangal1"><img src="https://github.com/adityamangal1.png?size=460" width="100px;" alt=""/><br /><sub><b>Aditya</b></sub></a></td>
-
-  </tr>
-</table>
+Inspired by [Abusayid693](https://github.com/Abusayid693/Hackathon-website-template)
