@@ -1091,8 +1091,15 @@ body.mobile-nav-active #mobile-nav-toggle {
   overflow: hidden;
   background: rgba(255, 255, 255, 0.5);
   height: 160px;
+  object-fit: cover;
 }
 
+#unicauca{
+  height: 130px;
+}
+#aess{
+  height: 130px;
+}
 #supporters .supporter-logo:hover img {
   -webkit-transform: scale(1.2);
   transform: scale(1.2);
