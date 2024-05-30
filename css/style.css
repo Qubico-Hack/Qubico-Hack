@@ -8,6 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+#supporters .supporters-wrap {
+  display: flex;
+  justify-content: center;
+}
 
 body {
   background: #fff;
